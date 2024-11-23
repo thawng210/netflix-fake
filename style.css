@@ -239,3 +239,6 @@ input[type="radio"]{
     max-height: 600px;
     padding: 30px 20px;
 }
+.get-started{
+    margin: 0;
+}
