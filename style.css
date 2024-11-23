@@ -15,7 +15,7 @@ body{
     width: 100%;
     height: 100vh;
     background-color: black;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) , url(images/header-image.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.356),rgba(0,0,0,0.7)) , url(images/backgound_2.jpg);
     background-size: cover;
     background-position: center;
     padding: 1.4204545454545454vh 4%;
